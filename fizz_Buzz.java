@@ -16,6 +16,6 @@ class fizz_Buzz{
              result.add(String.valueOf(i));
            }
         }
-        return result;
+      return result;
     }
 }
