@@ -1,5 +1,5 @@
 import java.util.*;
-class Solution {
+class fizz_Buzz{
     public List<String> fizzBuzz(int n) {
         List<String>result=new ArrayList<>();
         for(int i=1;i<=n;i++){
