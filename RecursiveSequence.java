@@ -4,7 +4,7 @@ public class RecursiveSequence {
         long start=1;
         final long  MOD=1000000007;
         
-        
+
         for(int i=1;i<=n;i++){
             long product=1;
             for(long j=start;j<start+i;j++){
